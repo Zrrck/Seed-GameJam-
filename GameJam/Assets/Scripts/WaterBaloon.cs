@@ -29,11 +29,12 @@ public class WaterBaloon : MonoBehaviour
         }
     }
 
-   public  void OnCollisionEnter(Collision other)
+    public void OnCollisionEnter(Collision other)
     {
         if (other.gameObject.tag == "Baby")
         {
             other.gameObject.GetComponent<BabyHealtManager>().HurtBaby(damageToGive);
+            Debug.Log("Collution");
         }
     }
 }

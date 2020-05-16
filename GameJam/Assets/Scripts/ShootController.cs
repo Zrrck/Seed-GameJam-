@@ -11,12 +11,12 @@ public class ShootController : MonoBehaviour
     public float baloonSpeed;
     public float timeBeetweenShots;
     public float shotCounter;
-
+    
     public Transform firePoint;
     // Start is called before the first frame update
     void Start()
     {
-        
+     
     }
 
     // Update is called once per frame

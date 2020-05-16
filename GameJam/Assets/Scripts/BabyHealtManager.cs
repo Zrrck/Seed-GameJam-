@@ -26,5 +26,6 @@ public class BabyHealtManager : MonoBehaviour
 
     {
         CurrentHealth -= damage;
+        Debug.Log(CurrentHealth);
     }
 }

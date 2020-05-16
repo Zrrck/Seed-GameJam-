@@ -65,6 +65,8 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\BabyController.cs" />
     <Compile Include="Assets\Scripts\BabyHealtManager.cs" />
+    <Compile Include="Assets\Scripts\BaloonCollect.cs" />
+    <Compile Include="Assets\Scripts\CoinCollect.cs" />
     <Compile Include="Assets\Scripts\MouseLook.cs" />
     <Compile Include="Assets\Scripts\PlaywrMovement.cs" />
     <Compile Include="Assets\Scripts\ShootController.cs" />
