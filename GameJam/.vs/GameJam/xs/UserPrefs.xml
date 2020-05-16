@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BabyController.cs">
+    <Files>
+      <File FileName="Assets/MouseLook.cs" Line="16" Column="50" />
+      <File FileName="Assets/PlaywrMovement.cs" Line="41" Column="10" />
+      <File FileName="Assets/Scripts/ShootController.cs" Line="32" Column="11" />
+      <File FileName="Assets/Scripts/ShootController.cs" Line="32" Column="71" />
+      <File FileName="Assets/Scripts/BabyHealtManager.cs" Line="25" Column="25" />
+      <File FileName="Assets/Scripts/BabyController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GameJam" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ShootController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c4181104-d08b-487b-a69e-7b78d47bda6b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
